@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\getSubtitle.props" />
+</Project>
